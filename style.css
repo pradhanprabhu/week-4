@@ -1,0 +1,8 @@
+.okk{
+    display: flex;
+    flex-wrap: wrap;
+}
+.class{
+    display: grid;
+    grid-gap: 20px;
+}
